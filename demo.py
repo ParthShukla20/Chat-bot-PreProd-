@@ -8,6 +8,7 @@ from pydub import AudioSegment
 from langchain.llms import OpenAI
 import time
 import base64
+import pillow
 
 # from transformers import MBartForConditionalGeneration, MBartTokenizer
 
